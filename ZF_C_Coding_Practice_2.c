@@ -1,7 +1,5 @@
 /*
-COP 2220 Assignment 7
 Author: Zachary Firth
-4/15/21
 */
 
 #include <stdio.h>
