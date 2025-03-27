@@ -1,7 +1,5 @@
 /*
-COP 2220 Assignment 3
 Author: Zachary Firth
-Date: 3/12/21
 */
 
 //Prototypes
